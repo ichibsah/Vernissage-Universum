@@ -5,7 +5,7 @@
         <v-img :width="32" src="@/assets/vernissage_logo.png"></v-img>
         VERNISSAGE
       </v-btn>
-      
+
 
       <v-spacer></v-spacer>
 
