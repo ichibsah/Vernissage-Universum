@@ -1,4 +1,4 @@
-# webgl_test
+# Vernissage Universum 
 
 ## Project setup
 ```
